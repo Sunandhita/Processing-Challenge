@@ -4,7 +4,7 @@ import processing.core.PApplet;
 
 public class Circle extends PApplet
 {
-	public static final int WIDTH = 640;
+    public static final int WIDTH = 640;
     public static final int HEIGHT = 640;
     public static final int DIAMETER = 20;
     public static final int FRAME_RATE = 140;
